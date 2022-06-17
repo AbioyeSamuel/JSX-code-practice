@@ -7,11 +7,11 @@ import ReactDOM from "react-dom";
 
 ReactDOM.render(
   <div>
-    <h1>Heading</h1>
+    <h1>My Favourite Food</h1>
     <ul>
-      <li>Food</li>
-      <li>Water</li>
-      <li>Drug</li>
+      <li>Bacon</li>
+      <li>Brocolli</li>
+      <li>Hamburger</li>
     </ul>
   </div>,
   document.getElementById("root")
